@@ -1,4 +1,0 @@
-mopsey
-======
-
-Mopsey the Monsterbot
