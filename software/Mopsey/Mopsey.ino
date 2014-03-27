@@ -26,7 +26,7 @@ void setup()
 void loop() 
 {
   // Set the color of the eye pixel to blue
-  strip.setPixelColor(1, strip.Color(0, 0, 255));
+  strip.setPixelColor(0, strip.Color(155, 0, 155));
   strip.show();
 
   // Swap the arms back-and-forth 
